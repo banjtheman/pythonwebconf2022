@@ -1,0 +1,8 @@
+streamlit
+yellowbrick
+altair
+pandas
+plotly
+wordcloud
+seaborn
+streamlit-yellowbrick

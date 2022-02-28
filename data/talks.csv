@@ -1,0 +1,9 @@
+day,time,track,title,speaker,
+Monday,9:00AM - 9:45AM,keynote,Community Building in Open Source,Lorena Mesa @ Python Software Foundation
+Tuesday,9:00AM-9:45AM,keynote,Stirring the Pot: How to Leverage Machine Learning,Matt Harrison @ MetaSnake
+Tuesday,12:00PM - 12:45PM,APP DEV 1,Why Should Developers Care About Container Security?,Eric Smalling @ Snyk
+Tuesday,12:00PM - 12:45PM,APP DEV 2,Building Interactive Apps in Python with Streamlit,Banjo Obayomi @ AWS
+Tuesday,12:00PM - 12:45PM,CLOUD,Building Stateful Workloads in Kubernetes,Rob Richardson @ Cyral
+Tuesday,12:00PM - 12:45PM,CULTURE,Cyber Hygiene for Tech Jedis,Linda Calvin @ School of IT at Ivy Tech Community College
+Tuesday,12:00PM - 12:45PM,PYDATA,Federated Learning in Computer Vision,Aditya Lohia @ BlueMirrors
+Tuesday,12:00PM - 12:45PM,TUTORIALS,End-to-End Testing with Playwright,Andrew Knight @ Applitools
